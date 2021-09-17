@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MEMÓRIA ROM
+=======
+MEMÓRIA RAM
+>>>>>>> a0decb73f61bb8564591a57068f2d6f0558334f4
